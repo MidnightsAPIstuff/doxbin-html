@@ -3,5 +3,7 @@
 this WONT contain: extremely harmful information
 this WILL contain: website data, HTML, CSS, (maybe PHP and JS aswell)
 
+![image](https://files.catbox.moe/rk6n4w.png)
+
 i, TanCodes Have 0 intent to harm this website.
 
