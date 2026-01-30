@@ -1,6 +1,6 @@
 # 🌐🔓 TalkoMatic.co Source Code leak
 
-## 🚨 LEGAL & ETHICS DISCLAIMER (that nobody reads)
+### 🚨 LEGAL & ETHICS DISCLAIMER (that nobody reads)
 
 The uploader claims no ownership. Use at your own risk.  
 If you're the original copyright holder: hi :) feel free to issue a DMCA — it'll look cool in the repo history.
